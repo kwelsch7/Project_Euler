@@ -1,4 +1,4 @@
 # Project_Euler
 Solved using Java.
 
-Posted for the purpose of providing examples/keeping a repository of my code, not for the purpose of giving away solutions to the Project Euler problems.
+I'm not trying to give away answers here; just keeping a copy of my code available.
